@@ -16,6 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smazzhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smazzhar" height="30" width="40" /></a>
+
+  <a href="https://www.researchgate.net/profile/Salman-Mazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="smazzhar" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/will_open_soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="will_open_soon" height="30" width="40" /></a>
 <a href="https://instagram.com/smazzhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smazzhar" height="30" width="40" /></a>
 </p>
+
+
