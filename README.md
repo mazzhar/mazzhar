@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salman Mazhar</h1>
-<h3 align="center">A passionate researcher from Bangladesh</h3>
+<h1 align="center">Hi there! 👋, I'm Salman Mazhar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazzhar&label=Profile%20views&color=0e75b6&style=flat" alt="mazzhar" /> </p>
 
@@ -11,7 +10,7 @@
 
 - 📄 Know about my experiences [resume link](resume link)
 
-- ⚡ Fun fact **I grew up in three places: UAE, Canada, and Bangladesh**
+- ⚡ Fun fact **I have a diverse upbringing in three countries: UAE, Canada, and Bangladesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
