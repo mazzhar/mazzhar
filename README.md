@@ -28,7 +28,6 @@ spans UAE, Canada, and Bangladesh.
 -   [Research Gate](https://www.researchgate.net/profile/Salman-Mazhar)
 -   [Google
     Scholar](https://scholar.google.com/citations?user=AIrKBUgAAAAJ&hl=en)
--   [Instagram](https://instagram.com/smazzhar)
 
 
 
