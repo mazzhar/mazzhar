@@ -1,23 +1,63 @@
-<h1 align="center">Hi there! 👋, I'm Salman Mazhar</h1>
+## Hi there! 👋, I'm Salman Mazhar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazzhar&label=Profile%20views&color=0e75b6&style=flat" alt="mazzhar" /> </p>
+### Welcome to my GitHub!
 
-- 🔭 I’m currently working on [several projects](links here)
+#### 🌏 Background
 
-- 🌱 I’m currently learning **Data Science**
+As a geotechnical engineer, I’m driven by a passion for research and
+continuous learning. With over a decade of industry experience, I thrive
+on exploring new ideas and pushing the boundaries of my knowledge.
 
-- 📝 I regularly write articles on [blog link](blog link)
+------------------------------------------------------------------------
 
-- 📄 Know about my experiences [resume link](resume link)
+#### 🚀 Data Analysis Arsenal
 
-- ⚡ Fun fact **I have a diverse upbringing in three countries: UAE, Canada, and Bangladesh**
+While Excel remains a valuable tool, R and Python aid me in tackling
+complex data challenges with precision and creativity.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/smazzhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smazzhar" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Salman-Mazhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg?color=00CCBB" alt="research-gate" height="30" width="40" /></a>
-<a href="https://kaggle.com/will_open_soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="will_open_soon" height="30" width="40" /></a>
-<a href="https://instagram.com/smazzhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smazzhar" height="30" width="40" /></a>
-</p>
+------------------------------------------------------------------------
+
+#### 🔭 Current Projects:
+
+I’m engaged in several exciting projects. Check them out here.
+
+------------------------------------------------------------------------
+
+#### 🌱 Learning Journey:
+
+Exploring data science and statistical analysis with R. Always open to
+collaboration and feedback.
+
+------------------------------------------------------------------------
+
+#### 📝 Writing:
+
+I am trying to get into the habit of regularly sharing insights,
+discoveries, and geotechnical musings on my blog.
+
+------------------------------------------------------------------------
+
+#### 📄 Experience:
+
+Want to know more about my journey? Explore my experiences in my resume.
+
+------------------------------------------------------------------------
+
+#### ⚡ Fun Fact:
+
+Beyond soil layers and code, I thrive on cultural layers. My upbringing
+spans UAE, Canada, and Bangladesh.
+
+------------------------------------------------------------------------
+
+#### Connect with me:
+
+-   [Linkedin](https://linkedin.com/in/smazzhar)
+-   [Research Gate](https://www.researchgate.net/profile/Salman-Mazhar)
+-   [Google
+    Scholar](https://scholar.google.com/citations?user=AIrKBUgAAAAJ&hl=en)
+-   [Instagram](https://instagram.com/smazzhar)
 
 
+
+<img src="https://komarev.com/ghpvc/?username=mazzhar&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"/>
